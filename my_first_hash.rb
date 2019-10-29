@@ -36,6 +36,6 @@ shipping_manifest["muskets"] = {"gun powder"=>4, "muskets"=>2, "oil paintings"=>
 
 
 
-  # return the shipping_manifest hash below
+  shipping_manifest
 
 end
