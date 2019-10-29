@@ -36,6 +36,6 @@ shipping_manifest[] = {"gun powder"=>4, "muskets"=>2, "oil paintings"=>3, "porce
 
 
 
-  shipping_manifest
+  
 
 end
